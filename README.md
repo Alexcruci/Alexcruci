@@ -166,6 +166,6 @@ I'm particularly interested in environments where I can work on **real data syst
 
 ## 📫 Contact
 
-- **LinkedIn:** [Your LinkedIn URL]
-- **Email:** [Your email]
+- **LinkedIn:** https://www.linkedin.com/in/alexcruci/?locale=it
+- **Email:** cruceru_alex@hotmail.it
 - **GitHub:** You're already here 👋
